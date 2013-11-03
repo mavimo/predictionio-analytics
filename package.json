@@ -1,0 +1,10 @@
+{
+  "name": "predictionio-analytics",
+  "author": "Marco Vito Moscaritolo <mavimo@gmail.com>",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-uglify": "~0.2.5"
+  }
+}
